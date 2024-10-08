@@ -1,6 +1,7 @@
 <template>
   <div class="home">
 
+<!--
     <section class="py-5 text-center container">
       <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
@@ -13,6 +14,7 @@
         </div>
       </div>
     </section>
+-->
 
     <div class="album py-5 bg-body-tertiary">
       <div class="container">
